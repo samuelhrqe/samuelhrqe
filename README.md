@@ -17,10 +17,10 @@
   <img align="center" alt="Samuel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
 <!--  
-![c badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
-![c++ badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-![python badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![java badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)
+![c badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![c++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![python badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 -->
   
 ##
