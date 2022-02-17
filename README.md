@@ -2,7 +2,7 @@
 - 🌱 Estudando JAVA e Python
 
 ![SamuelLost](https://komarev.com/ghpvc/?username=SamuelLost&label=Profile%20views&color=ff9000&style=flat)
-[![Insgram Badge](https://img.shields.io/badge/samuel.h15-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/samuel.h15)](https://www.instagram.com/samuel.h15)
+[![Insgram Badge](https://img.shields.io/badge/samuelh____-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/samuel.h15)](https://www.instagram.com/samuel.h15)
 [![Gmail Badge](https://img.shields.io/badge/-samuelhenriqec@alu.ufc.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelhenriqec@alu.ufc.br)](mailto:samuelhenriqec@alu.ufc.br)
 
 <div>
