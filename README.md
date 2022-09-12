@@ -4,6 +4,8 @@
 ![SamuelLost](https://komarev.com/ghpvc/?username=SamuelLost&label=Profile%20views&color=ff9000&style=flat)
 [![Insgram Badge](https://img.shields.io/badge/samuelh_____-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/samuelh_____)](https://www.instagram.com/samuelh_____)
 [![Gmail Badge](https://img.shields.io/badge/-samuelhenriqec@alu.ufc.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelhenriqec@alu.ufc.br)](mailto:samuelhenriqec@alu.ufc.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Samuel_Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelhenrique15/)](https://www.linkedin.com/in/samuelhenrique15/)
+
 
 <div>
   <a href="https://github.com/SamuelLost">
