@@ -93,7 +93,7 @@ int main() {
   ![Snake animation](https://github.com/SamuelLost/SamuelLost/blob/output/github-contribution-grid-snake-dark.svg)<br/>
  <div align="left">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamuelLost&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <a href="https://wakatime.com/@nahtanPNG" target="_blank">
+ <a href="https://wakatime.com/@SamuelLost" target="_blank">
 	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=SamuelLost&border_radius=5px&theme=radical&show_icons=true&disable_animations=true">
 </a>
 </div><br/>
