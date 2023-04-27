@@ -6,23 +6,30 @@
 using namespace std;
 
 class Developer {
-public:
+private:
     string name;
     int age;
     string nacionality;
     string work;
+public: 
     Developer(string name, int age, string nacionality, string work){
         this->name = name;
         this->age = age;
         this->nacionality = nacionality;
         this->work = work;
     }
+
+    string getName() const { return name; }
+    int getAge() const { return age; }
+    string getNacionality() const { return nacionality; }
+    string getWork() const { return work; }
+
 };
 
 int main() {
     Developer dev("Samuel Henrique", 22, "Brazilian", "Embedded Developer");
-    cout << "Hi! I'm " << dev.name << ", I'm " << dev.age << " years old and i'm from " << dev.nacionality << "!" << endl;
-    cout << "I'm currently studying to be a " << dev.work << "!" << endl;
+    cout << "Hi! I'm " << dev.getName() << ", I'm " << dev.getAge() << " years old and i'm from " << dev.getNacionality() << "!" << endl;
+    cout << "I'm currently studying to be a " << dev.getWork() << "!" << endl;
     return 0;
 }
 ```
