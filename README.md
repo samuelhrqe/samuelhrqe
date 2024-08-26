@@ -3,33 +3,29 @@
 ```cpp
 #include <iostream>
 #include <string>
-using namespace std;
 
 class Developer {
 private:
-    string name;
-    int age;
-    string nacionality;
-    string work;
+    std::string name_;
+    int age_;
+    std::string country_;
+    std::string work_;
 public: 
-    Developer(string name, int age, string nacionality, string work){
-        this->name = name;
-        this->age = age;
-        this->nacionality = nacionality;
-        this->work = work;
-    }
+    Developer(std::string name, int age, std::string country, std::string work) 
+                : name_(name), age_(age), country_(country), work_(work) {}
 
-    string getName() const { return name; }
-    int getAge() const { return age; }
-    string getNacionality() const { return nacionality; }
-    string getWork() const { return work; }
-
+    std::string getName() const { return name_; }
+    int getAge() const { return age_; }
+    std::string getCountry() const { return country_; }
+    std::string getWork() const { return work_; }
 };
 
 int main() {
-    Developer dev("Samuel Henrique", 22, "Brazilian", "Embedded Developer");
-    cout << "Hi! I'm " << dev.getName() << ", I'm " << dev.getAge() << " years old and i'm from " << dev.getNacionality() << "!" << endl;
-    cout << "I'm currently studying to be a " << dev.getWork() << "!" << endl;
+    Developer dev("Samuel Henrique", 23, "Brazil", "Embedded Developer");
+    std::cout << "Hi! I'm " << dev.getName() << ", I'm " << dev.getAge() 
+                << " years old, and I'm from " << dev.getCountry() << "!" << std::endl;
+
+    std::cout << "I'm currently studying to be a " << dev.getWork() << "!" << std::endl;
     return 0;
 }
 ```
