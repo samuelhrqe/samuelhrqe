@@ -21,7 +21,7 @@ public:
 };
 
 int main() {
-    Developer dev("Samuel Henrique", 23, "Brazil", "Embedded Developer");
+    Developer dev("Samuel Henrique", 24, "Brazil", "Embedded Developer");
     std::cout << "Hi! I'm " << dev.getName() << ", I'm " << dev.getAge() 
                 << " years old, and I'm from " << dev.getCountry() << "!" << std::endl;
 
@@ -93,10 +93,10 @@ int main() {
  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
  
  
-  ![Snake animation](https://github.com/SamuelLost/SamuelLost/blob/output/github-contribution-grid-snake-dark.svg)<br/>
+  ![Snake animation](https://github.com/samuelhrqe/samuelhrqe/blob/output/github-contribution-grid-snake-dark.svg)<br/>
  <div align="left">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamuelLost&show_icons=true&theme=radical"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelhrqe&show_icons=true&theme=radical"/>
  <a href="https://wakatime.com/@SamuelLost" target="_blank">
-	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=SamuelLost&border_radius=5px&theme=radical&show_icons=true&disable_animations=true">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelhrqe&border_radius=5px&theme=radical&show_icons=true&disable_animations=true">
 </a>
 </div><br/>
